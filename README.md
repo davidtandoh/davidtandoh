@@ -5,7 +5,7 @@
   and product.                                                                                        
                                                                                                         
   Most days you'll find me:                                                                             
-  - Designing scalable data pipelines (Spark, Airflow, Snowflake, Kafka)
+  - Designing scalable data pipelines (Spark, Airflow, Snowflake, Kafka, Databricks)
   - Shipping backend services in Kotlin / Spring Boot
   - Building cross-platform products with Flutter and Next.js
   - Wiring up payment flows, multi-currency pricing, and marketplace infrastructure
