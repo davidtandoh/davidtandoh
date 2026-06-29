@@ -1,4 +1,20 @@
 
+<p align="center">
+  <a href="https://davidtandoh.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=FFFFFF&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer;Building+agentic+systems;Fintech+%C2%B7+Payments+%C2%B7+Deep+Tech;GuideX+%C2%B7+DXJ+%C2%B7+Cygnal+%C2%B7+Bosun" alt="David Tandoh" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,ts,react,nextjs,flutter,python,fastapi,gcp,aws,terraform,postgres,redis,firebase,docker,kubernetes&perline=8" />
+</p>
+
+<p align="center">
+  <a href="https://davidtandoh.com"><img src="https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=white"></a>
+  <a href="https://linkedin.com/in/davidtandoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/tanoe09"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white"></a>
+</p>
+
   👋 Hey, I'm David                                                                                     
                                                                                                         
   I build **agentic systems** and production-grade platforms at the intersection of **AI, fintech & payments** — 
@@ -45,6 +61,11 @@
    and let it handle the throughput while I focus on the architecture and product decisions.
 
   I care deeply about robustness, clarity, and shipping things that actually get used.
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidtandoh&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidtandoh&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+</p>
 
   🌐 More at **[davidtandoh.com](https://davidtandoh.com)**
 <!---
