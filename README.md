@@ -62,11 +62,6 @@
 
   I care deeply about robustness, clarity, and shipping things that actually get used.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidtandoh&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidtandoh&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-</p>
-
   🌐 More at **[davidtandoh.com](https://davidtandoh.com)**
 <!---
 davidtandoh/davidtandoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
