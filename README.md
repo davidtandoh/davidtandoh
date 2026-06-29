@@ -16,7 +16,7 @@
   Functions, Data Connect, Flutter mobile app, and a Next.js web client — with real-time bookings, ticketing, and
   international payment processing.
 
-  Infra - Terraform, GCP
+  Infra - Terraform, GCP, AWS, Azure
 
   AI-Native Development
 
